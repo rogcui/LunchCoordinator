@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
+    //test if commit works
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
